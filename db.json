@@ -1,0 +1,40 @@
+{
+  "cards": [
+    {
+      "maskedCardNumber": "1234 5678 **** 1121",
+      "cardLastFourDigits": "1121",
+      "cardType": "mastercard",
+      "expirationDate": "03/21",
+      "cvv": "123",
+      "linkedApps": ["Zaky App"],
+      "isImported": false,
+      "isAllowedCashWithdrawal": true,
+      "isAllowedOnlinePurchase": true,
+      "isLocked": false
+    },
+    {
+      "maskedCardNumber": "1234 5678 **** 1212",
+      "cardLastFourDigits": "1212",
+      "cardType": "visa",
+      "expirationDate": "07/22",
+      "cvv": "456",
+      "linkedApps": ["YOLO App"],
+      "isImported": false,
+      "isAllowedCashWithdrawal": true,
+      "isAllowedOnlinePurchase": true,
+      "isLocked": false
+    },
+    {
+      "maskedCardNumber": "4567 8910 **** 1314",
+      "cardLastFourDigits": "1212",
+      "cardType": "visa",
+      "expirationDate": "09/22",
+      "cvv": "789",
+      "linkedApps": ["YOLO App"],
+      "isImported": false,
+      "isAllowedCashWithdrawal": true,
+      "isAllowedOnlinePurchase": true,
+      "isLocked": false
+    }
+  ]
+}
