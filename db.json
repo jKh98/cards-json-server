@@ -36,5 +36,31 @@
       "isAllowedOnlinePurchase": true,
       "isLocked": false
     }
+  ],
+  "transactions": [
+    {
+      "title": "areeba shop center",
+      "date": "15 OCT 2019",
+      "amount": "13,820.00",
+      "isSettelment": true
+    },
+    {
+      "title": "areeba shop center",
+      "date": "15 OCT 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "title": "Spinney’s",
+      "date": "15 OCT 2019",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "title": "areeba shop center",
+      "date": "15 OCT 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    }
   ]
 }
