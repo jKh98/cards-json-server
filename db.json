@@ -23,6 +23,18 @@
       "isAllowedCashWithdrawal": true,
       "isAllowedOnlinePurchase": true,
       "isLocked": false
+    },
+    {
+      "maskedCardNumber": "4567 8910 **** 1314",
+      "cardLastFourDigits": "1212",
+      "cardType": "visa",
+      "expirationDate": "09/22",
+      "cvv": "789",
+      "linkedApps": ["YOLO App"],
+      "isImported": false,
+      "isAllowedCashWithdrawal": true,
+      "isAllowedOnlinePurchase": true,
+      "isLocked": false
     }
   ],
   "transactions": [
