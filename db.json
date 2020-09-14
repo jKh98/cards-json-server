@@ -44,8 +44,8 @@
     {
       "id": 1,
       "cardReference": 0,
-      "title": "areeba shop center",
-      "date": "15 OCT 2019",
+      "title": "SPINNEYS",
+      "date": "13 OCT 2020",
       "amount": "13,820.00",
       "isSettelment": true
     },
@@ -53,7 +53,7 @@
       "id": 2,
       "cardReference": 0,
       "title": "areeba shop center",
-      "date": "15 OCT 2019",
+      "date": "13 JUN 2018",
       "amount": "13.000",
       "isSettelment": true
     },
@@ -61,15 +61,15 @@
       "id": 3,
       "cardReference": 0,
       "title": "Spinney’s",
-      "date": "15 OCT 2019",
+      "date": "16 JUN 2019",
       "amount": "13.000",
       "isSettelment": false
     },
     {
       "id": 4,
       "cardReference": 0,
-      "title": "areeba shop center",
-      "date": "15 OCT 2019",
+      "title": "AMAZON",
+      "date": "16 FEB 2020",
       "amount": "13.000",
       "isSettelment": true
     },
@@ -77,47 +77,545 @@
     {
       "id": 5,
       "cardReference": 1,
-      "title": "areeba shop center",
-      "date": "15 JAN 2020",
+      "title": "AMAZON",
+      "date": "16 JUL 2017",
       "amount": "13.000",
       "isSettelment": false
     },
     {
       "id": 6,
       "cardReference": 1,
-      "title": "areeba shop center",
-      "date": "15 JAN 2020",
+      "title": "AMAZON",
+      "date": "18 JUL 2020",
       "amount": "13.000",
       "isSettelment": false
     },
     {
       "id": 7,
       "cardReference": 1,
-      "title": "areeba shop center",
-      "date": "15 JAN 2020",
+      "title": "ZARA",
+      "date": "18 JUL 2020",
       "amount": "13.000",
-      "isSettelment": false
+      "isSettelment": true
     },
     {
-      "id": 5,
+      "id": 8,
       "cardReference": 1,
-      "title": "areeba shop center",
-      "date": "11 JAN 2020",
+      "title": "ZARA",
+      "date": "11 AUG 2020",
       "amount": "13.000",
       "isSettelment": false
     },
 
     {
-      "id": 6,
+      "id": 9,
+      "cardReference": 2,
+      "title": "ZARA",
+      "date": "11 AUG 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 10,
+      "cardReference": 2,
+      "title": "ZARA",
+      "date": "11 AUG 2016",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 11,
+      "cardReference": 0,
+      "title": "AMAZON",
+      "date": "18 FEB 2016",
+      "amount": "13,820.00",
+      "isSettelment": true
+    },
+    {
+      "id": 12,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "18 FEB 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 13,
+      "cardReference": 0,
+      "title": "Spinney’s",
+      "date": "18 FEB 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 14,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "18 MAY 2018",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 15,
+      "cardReference": 1,
+      "title": "areeba shop center",
+      "date": "18 JUL 2016",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 16,
+      "cardReference": 1,
+      "title": "areeba shop center",
+      "date": "19 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 17,
+      "cardReference": 1,
+      "title": "SPINNEYS",
+      "date": "19 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 18,
+      "cardReference": 1,
+      "title": "SPINNEYS",
+      "date": "11 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 19,
+      "cardReference": 2,
+      "title": "SPINNEYS",
+      "date": "11 AUG 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 110,
+      "cardReference": 2,
+      "title": "AMAZON",
+      "date": "11 AUG 2016",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 21,
+      "cardReference": 0,
+      "title": "AMAZON",
+      "date": "19 MAY 2016",
+      "amount": "13,820.00",
+      "isSettelment": true
+    },
+    {
+      "id": 22,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "21 JUN 2016",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 23,
+      "cardReference": 0,
+      "title": "Spinney’s",
+      "date": "1 JUN 2018",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 24,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "1 MAY 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 25,
+      "cardReference": 1,
+      "title": "areeba shop center",
+      "date": "21 AUG 2019",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 26,
+      "cardReference": 1,
+      "title": "ZARA",
+      "date": "21 AUG 2016",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 27,
+      "cardReference": 1,
+      "title": "ZARA",
+      "date": "21 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 28,
+      "cardReference": 1,
+      "title": "ZARA",
+      "date": "11 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 29,
       "cardReference": 2,
       "title": "areeba shop center",
+      "date": "11 AUG 2016",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 210,
+      "cardReference": 2,
+      "title": "areeba shop center",
+      "date": "11 AUG 2016",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 31,
+      "cardReference": 0,
+      "title": "SPINNEYS",
+      "date": "21 MAY 2019",
+      "amount": "13,820.00",
+      "isSettelment": true
+    },
+    {
+      "id": 32,
+      "cardReference": 0,
+      "title": "SPINNEYS",
+      "date": "22 FEB 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 33,
+      "cardReference": 0,
+      "title": "Spinney’s",
+      "date": "22 FEB 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 34,
+      "cardReference": 0,
+      "title": "SPINNEYS",
+      "date": "1 FEB 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 35,
+      "cardReference": 1,
+      "title": "areeba shop center",
+      "date": "1 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 36,
+      "cardReference": 1,
+      "title": "areeba shop center",
+      "date": "1 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 37,
+      "cardReference": 1,
+      "title": "areeba shop center",
+      "date": "22 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 38,
+      "cardReference": 1,
+      "title": "ZARA",
+      "date": "11 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+
+    {
+      "id": 39,
+      "cardReference": 2,
+      "title": "ZARA",
+      "date": "11 NOV 2018",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 310,
+      "cardReference": 2,
+      "title": "ZARA",
+      "date": "11 NOV 2017",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 41,
+      "cardReference": 0,
+      "title": "AMAZON",
+      "date": "22 FEB 2017",
+      "amount": "13,820.00",
+      "isSettelment": true
+    },
+    {
+      "id": 42,
+      "cardReference": 0,
+      "title": "AMAZON",
+      "date": "23 JUN 2017",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 43,
+      "cardReference": 0,
+      "title": "Spinney’s",
+      "date": "23 JUN 2017",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 44,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "2 MAY 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 45,
+      "cardReference": 1,
+      "title": "SPINNEYS",
+      "date": "2 NOV 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 46,
+      "cardReference": 1,
+      "title": "SPINNEYS",
+      "date": "2 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 47,
+      "cardReference": 1,
+      "title": "SPINNEYS",
+      "date": "3 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 48,
+      "cardReference": 1,
+      "title": "SPINNEYS",
       "date": "11 JAN 2020",
       "amount": "13.000",
       "isSettelment": true
     },
 
     {
-      "id": 7,
+      "id": 49,
+      "cardReference": 2,
+      "title": "SPINNEYS",
+      "date": "11 JAN 2017",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 410,
+      "cardReference": 2,
+      "title": "SPINNEYS",
+      "date": "11 NOV 2017",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 51,
+      "cardReference": 0,
+      "title": "SPINNEYS",
+      "date": "3 OCT 2017",
+      "amount": "13,820.00",
+      "isSettelment": true
+    },
+    {
+      "id": 52,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "3 OCT 2018",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 53,
+      "cardReference": 0,
+      "title": "Spinney’s",
+      "date": "3 FEB 2018",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 54,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "4 FEB 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 55,
+      "cardReference": 1,
+      "title": "areeba shop center",
+      "date": "4 NOV 2019",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 56,
+      "cardReference": 1,
+      "title": "areeba shop center",
+      "date": "4 JAN 2017",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 57,
+      "cardReference": 1,
+      "title": "areeba shop center",
+      "date": "4 AUG 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 58,
+      "cardReference": 1,
+      "title": "AMAZON",
+      "date": "11 AUG 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 59,
+      "cardReference": 2,
+      "title": "AMAZON",
+      "date": "11 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 510,
+      "cardReference": 2,
+      "title": "AMAZON",
+      "date": "11 JUL 2017",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 61,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "7 JUN 2017",
+      "amount": "13,820.00",
+      "isSettelment": true
+    },
+    {
+      "id": 62,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "7 JUN 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 63,
+      "cardReference": 0,
+      "title": "Spinney’s",
+      "date": "23 MAY 2019",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 64,
+      "cardReference": 0,
+      "title": "areeba shop center",
+      "date": "10 MAY 2018",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 65,
+      "cardReference": 1,
+      "title": "SPINNEYS",
+      "date": "10 JUL 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 66,
+      "cardReference": 1,
+      "title": "SPINNEYS",
+      "date": "10 AUG 2017",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+    {
+      "id": 67,
+      "cardReference": 1,
+      "title": "SPINNEYS",
+      "date": "13 AUG 2017",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+    {
+      "id": 68,
+      "cardReference": 1,
+      "title": "ZARA",
+      "date": "11 AUG 2020",
+      "amount": "13.000",
+      "isSettelment": false
+    },
+
+    {
+      "id": 69,
+      "cardReference": 2,
+      "title": "ZARA",
+      "date": "11 JAN 2020",
+      "amount": "13.000",
+      "isSettelment": true
+    },
+
+    {
+      "id": 610,
       "cardReference": 2,
       "title": "areeba shop center",
       "date": "11 JAN 2020",
